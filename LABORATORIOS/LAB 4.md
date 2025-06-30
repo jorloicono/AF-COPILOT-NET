@@ -1,16 +1,7 @@
----
-lab:
-    title: 'Exercise - Develop unit tests using GitHub Copilot'
-    description: 'Learn how to accelerate the development of unit tests using GitHub in Visual Studio Code.'
----
 
 # Develop unit tests using GitHub Copilot
 
 The large language models behind GitHub Copilot are trained on a variety of code testing frameworks and scenarios. GitHub Copilot is a great tool for generating test cases, test methods, test assertions and mocks, and test data. In this exercise, you use GitHub Copilot to accelerate the development of unit tests for a C# application.
-
-This exercise should take approximately **25** minutes to complete.
-
-> **IMPORTANT**: To complete this exercise, you must provide your own GitHub account and GitHub Copilot subscription. If you don't have a GitHub account, you can <a href="https://github.com/" target="_blank">sign up</a> for a free individual account and use a GitHub Copilot Free plan to complete the exercise. If you have access to a GitHub Copilot Pro, GitHub Copilot Pro+, GitHub Copilot Business, or GitHub Copilot Enterprise subscription from within your lab environment, you can use your existing GitHub Copilot subscription to complete this exercise.
 
 ## Before you start
 
