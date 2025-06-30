@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Exercise - Examine GitHub Copilot settings and user interface features'
-    description: 'Learn how to configure GitHub Copilot settings and how to access GitHub Copilot features in Visual Studio Code.'
----
-
 # Examine GitHub Copilot settings and user interface features
 
 Visual Studio Code provides a seamless and customizable GitHub Copilot experience for developers. In this exercise you examine GitHub Copilot settings and explore the GitHub Copilot user interface in Visual Studio Code.
