@@ -1,16 +1,6 @@
----
-lab:
-    title: 'Exercise - Analyze and document code using GitHub Copilot'
-    description: 'Learn how to analyze new or unfamiliar code and how to generate documentation using GitHub Copilot in Visual Studio Code.'
----
-
 # Analyze and document code using GitHub Copilot
 
 GitHub Copilot can help you understand and document a codebase by generating explanations and documentation. In this exercise, you use GitHub Copilot to analyze a codebase and generate documentation for the project.
-
-This exercise should take approximately **20** minutes to complete.
-
-> **IMPORTANT**: To complete this exercise, you must provide your own GitHub account and GitHub Copilot subscription. If you don't have a GitHub account, you can <a href="https://github.com/" target="_blank">sign up</a> for a free individual account and use a GitHub Copilot Free plan to complete the exercise. If you have access to a GitHub Copilot Pro, GitHub Copilot Pro+, GitHub Copilot Business, or GitHub Copilot Enterprise subscription from within your lab environment, you can use your existing GitHub Copilot subscription to complete this exercise.
 
 ## Before you start
 
