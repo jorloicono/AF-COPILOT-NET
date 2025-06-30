@@ -1,18 +1,8 @@
----
-lab:
-    title: 'Exercise - Get started with vibe coding using GitHub Copilot Agent'
-    description: 'Learn how to create a prototype app using a vibe coding process and GitHub Copilot Agent.'
----
-
 # Get started with vibe coding using GitHub Copilot Agent
 
 Vibe coding is an approach to programming that uses AI tools, such as GitHub Copilot Agent, to generate software. Instead of manually writing code, a user provides a natural language description of their intended app, and the AI generates the corresponding code. This shifts the programmer's role from traditional coding to guiding, testing, and refining the AI-generated output.
 
 In this exercise, you use a vibe coding process and GitHub Copilot Agent to create a prototype version of an online shopping app. Your prototype app includes the following pages: products, product details, shopping cart, and checkout. The app includes basic navigation between pages and a limited dataset that helps to demonstrate app features. The prototype doesn't include any backend functionality, such as user authentication, payment processing, or database integration.
-
-This exercise should take approximately **30** minutes to complete.
-
-> **IMPORTANT**: To complete this exercise, you must provide your own GitHub account and GitHub Copilot subscription. If you don't have a GitHub account, you can <a href="https://github.com/" target="_blank">sign up</a> for a free individual account and use a GitHub Copilot Free plan to complete the exercise. If you have access to a GitHub Copilot Pro, GitHub Copilot Pro+, GitHub Copilot Business, or GitHub Copilot Enterprise subscription from within your lab environment, you can use your existing GitHub Copilot subscription to complete this exercise.
 
 ## Before you start
 
